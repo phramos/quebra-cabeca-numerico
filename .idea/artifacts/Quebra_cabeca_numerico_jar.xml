@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Quebra-cabeca-numerico:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Quebra_cabeca_numerico_jar</output-path>
+    <root id="archive" name="Quebra-cabeca-numerico.jar">
+      <element id="module-output" name="Quebra-cabeca-numerico" />
+    </root>
+  </artifact>
+</component>
